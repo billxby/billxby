@@ -25,7 +25,7 @@ Hi
 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bx07&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bx07&theme=tokyonight" />
-  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bx07&theme=radical&layout=compact" />
+  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bx07&hide=javascript,css,scss,html&theme=radical&layout=compact" />
 </p>
 
 
