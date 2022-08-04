@@ -27,4 +27,6 @@ Hi
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bx07&theme=tokyonight" />
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bx07&hide=javascript,css,scss,html&theme=tokyonight)
+
 <br>
