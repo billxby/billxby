@@ -2,8 +2,6 @@ Hi
 
 I actually do program all my repos are just private for now... Don't worry!!!
 
-[![BX's github activity graph](https://activity-graph.herokuapp.com/graph?username=bx07&theme=xcode)](https://git.io/bx07)
-
 ## ⚡ Technologies
 
 ### Language :
