@@ -28,6 +28,8 @@ I actually do program all my repos are just private for now... Don't worry!!!
   <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bx07&hide=javascript,css,scss,html&theme=radical&layout=compact" />
 </p>
 
-
+#### ValueSeeker is out now!
+https://github.com/ValueSeeker/value-seeker
+See it here: https://valueseeker.github.io/value-seeker/
 
 <br>
