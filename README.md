@@ -1,6 +1,6 @@
 Hi
 
-I actually do program all my repos are just private for now... Don't worry!!!
+I build stuff that I find useful
 
 ## ⚡ Technologies
 
@@ -20,12 +20,3 @@ I actually do program all my repos are just private for now... Don't worry!!!
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-## 📈 Stats
-
-<p align="center">
-
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bx07&theme=tokyonight" />
-  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bx07&hide=javascript,css,scss,html&theme=radical&layout=compact" />
-</p>
-
-<br>
