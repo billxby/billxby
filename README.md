@@ -1,7 +1,5 @@
 Hi
 
-I build stuff that I find useful
-
 [Devpost Profile](https://devpost.com/billxby)
 
 <p align="left">
