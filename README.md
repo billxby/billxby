@@ -1,4 +1,4 @@
-Hi
+
 
 [Devpost Profile](https://devpost.com/billxby)
 
